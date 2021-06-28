@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127167041795",
+    "project_id": "humananatomyappdemo",
+    "storage_bucket": "humananatomyappdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127167041795:android:9eb6383e77c6f296771936",
+        "android_client_info": {
+          "package_name": "com.tvz.os_hbp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127167041795-0psqa2q2du91n12knmv2kturjn92fjmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvz.os_hbp",
+            "certificate_hash": "0de770cd45e8dfb83900b09c2666bd5ecdec5ecf"
+          }
+        },
+        {
+          "client_id": "127167041795-mjhqsgvpmqig6t58886k67lirml6n6ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAys7lJYpqsslX7VzPclu3FvnxB5etsfSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127167041795-mjhqsgvpmqig6t58886k67lirml6n6ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
